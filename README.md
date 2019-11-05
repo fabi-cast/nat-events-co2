@@ -16,11 +16,11 @@ Fabiana Castiblanco
 
 ## Project Description
 
-In this project we do an exploratory analysis of the ocurrence of natural events (aka. disasters) like Severe Storms, Wildfires, Volcanoes, Earthquakes, etc. and their relationship with global emissions of CO2 over the years. 
+In this project we do an exploratory analysis of the occurrence of natural events (aka. disasters) like Severe Storms, Wildfires, Volcanoes, Earthquakes, etc. and their relationship with global emissions of CO2 over the years. 
 
 ## Questions & Hypotheses
 
-Is there a correlation between natural disasters ocurrences and emissions of CO2?
+Is there a correlation between natural disasters occurrences and emissions of CO2?
 
 It is well known the fact that emissions of CO2 contribute to the global warming phenomenon. Are they also related somehow with the occurrences e.g. of Wildfires or severe storms?
 
